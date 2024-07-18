@@ -1,6 +1,6 @@
 # Dynamic Forms
 
-1. Clone the repository: git clone https://safwan_ahammad@bitbucket.org/safwan-ahmd/emp_management.git
+1. Clone the repository: git clone https://github.com/sfnahmd97/dynamic-forms.git
 2. Run the command "cp .env.example .env"
 3. Set up your environment variables database and mail configuration in .env file
 4. Delete composer.lock file
