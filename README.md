@@ -9,7 +9,7 @@
 7. Run the command "php artisan migrate:fresh --seed"
 8. Run the command "php artisan serve"
 9. Run the command "npm install & npm run dev"
-10. Pleasechange MailId in App/Jobs/sendFormCreatedEMail
+10. Please change the MailId in App/Jobs/sendFormCreatedEMail
 11. Run the command "php artisan queue:work"
 12. admin credential Email: "admin@admin.com",Password:"password"
 
