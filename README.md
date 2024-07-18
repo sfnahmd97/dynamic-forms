@@ -1,1 +1,14 @@
-# dynamic-forms
+# Dynamic Forms
+
+1. Clone the repository: git clone https://safwan_ahammad@bitbucket.org/safwan-ahmd/emp_management.git
+2. Run the command "cp .env.example .env"
+3. Set up your environment variables database and mail configuration in .env file
+4. Run migrations and seeders php artisan migrate:fresh --seed
+5. Delete composer.lock file
+6. Run the command "composer install"
+7. Run the command "php artisan key:generate"
+8. Run the command "php artisan migrate:fresh"
+9. Run the command "php artisan:serve"
+10. npm install & npm run dev
+11. php artisan queue:work
+
