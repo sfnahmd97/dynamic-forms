@@ -7,7 +7,8 @@
 5. Run the command "composer install"
 6. Run the command "php artisan key:generate"
 7. Run the command "php artisan migrate:fresh --seed"
-8. Run the command "php artisan:serve"
+8. Run the command "php artisan serve"
 9. Run the command "npm install & npm run dev"
 10. Run the command "php artisan queue:work"
+11. admin credential Email: "admin@admin.com",Password:"password"
 

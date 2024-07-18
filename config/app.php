@@ -185,4 +185,6 @@ return [
         // 'Example' => App\Facades\Example::class,
     ])->toArray(),
 
+    'test_mail_id' => env('MAIL_FROM_ADDRESS'),
+
 ];
